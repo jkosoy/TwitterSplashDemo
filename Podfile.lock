@@ -1,0 +1,23 @@
+PODS:
+  - AHEasing (1.2)
+  - CFAAction (0.0.1)
+
+DEPENDENCIES:
+  - AHEasing (~> 1.2)
+  - CFAAction (from `https://github.com/jkosoy/CFAAction.git`, branch `develop`)
+
+EXTERNAL SOURCES:
+  CFAAction:
+    :branch: develop
+    :git: https://github.com/jkosoy/CFAAction.git
+
+CHECKOUT OPTIONS:
+  CFAAction:
+    :commit: d3624249ba5a9d3d623cbbacd9906a2ce628670c
+    :git: https://github.com/jkosoy/CFAAction.git
+
+SPEC CHECKSUMS:
+  AHEasing: 847f583bcd83a2bb850e38ccdb26d22e2593f34d
+  CFAAction: e1ebecd948d557cd5389b67ff44b4b33bf450c48
+
+COCOAPODS: 0.39.0
